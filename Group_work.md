@@ -1,4 +1,4 @@
-## Victor Bejan - A00022136 - Ethical Reflection & Improvements
+## Victor Bejan - A00022136 - Historical development
 ## Ogodo Daniel - A00023169 - 
 ## Ndlovu Andile Brandon - X00227203 - 
 ## Uzoma Chinonso - D24127655 - 
