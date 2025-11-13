@@ -1,4 +1,23 @@
-# hello
-## how are you
-### good
+## Victor Bejan - A00022136 - Ethical Reflection & Improvements
+## Ogodo Daniel - A00023169 - 
+## Ndlovu Andile Brandon - X00227203 - 
+## Uzoma Chinonso - D24127655 - 
+## Singh Mayank - A00029255 - 
 
+
+# Introduction 
+
+
+# Historical development
+
+
+# First viewpoint
+
+
+# Second viewpoint
+
+
+# Ethical Reflection & Improvements
+
+
+# Conclusoin 
