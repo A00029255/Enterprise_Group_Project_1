@@ -38,7 +38,7 @@ The 1990 is the start point of 3D Graphics, CD-ROMs, and online gaming. **Sony's
 
 **PC gaming** thrived with multiplayer gaming. Games like **DOOM**(1993) and **StarCraft**(1998) popularized networked gaming and global competition, laying the foundation for modern online communities and esports culture.
 
-### Moder Era : 2010 - Present
+### Modern Era : 2010 - Present
 
 In the 2010 gaming became a mainstream cultural and financial enterpriser. Digital distribution through **Steam**, **PLay Station** and **Xbox** revolutionzed game access, while *mobile gaming* exploded with hits like *Angry Birds* and *Candy Crush*.
 
@@ -49,10 +49,10 @@ Recent innovations in **Virtual Reality** and **Clowd Computing** have further e
 The evolution of gaming illustrates how computing has transcended functionality to become a medium of shared experience—connecting people, cultures, and ideas across digital spaces.
 
 ## References 
-[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
-[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
-[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
-[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
+2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
+3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
+4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
 
 # First Viewpoint
 
