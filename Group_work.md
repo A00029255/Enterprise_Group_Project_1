@@ -34,7 +34,25 @@ The late 1980 and early 1990s saw intense competiton between **Nintendo** and **
 
 ### Rise of 3D and Online Play: 1990 – 2000
 
-The 1990 is the start point of 3D Graphics, CD-ROMs, and online gaming
+The 1990 is the start point of 3D Graphics, CD-ROMs, and online gaming. **Sony's PlayStation**(1994) and **Nintendo 64**(1996) introduced realistic environments and complex gameplay. Landmark titles such as **Final Fantasy VII**, **Tomb Rider** and **The Legend of Zelda: Ocarina of Time**demonstrated deeper storytelling and emotional engagement.
+
+**PC gaming** thrived with multiplayer gaming. Games like **DOOM**(1993) and **StarCraft**(1998) popularized networked gaming and global competition, laying the foundation for modern online communities and esports culture.
+
+### Moder Era : 2010 - Present
+
+In the 2010 gaming became a mainstream cultural and financial enterpriser. Digital distribution through **Steam**, **PLay Station** and **Xbox** revolutionzed game access, while *mobile gaming* exploded with hits like *Angry Birds* and *Candy Crush*.
+
+**Esports** evolved into a professional industry with global tournaments, million of Euro prizes, and massive online audiences. Simultaneously, streaming platforms such as **Twitch** and **YouTube** blurred the line between players and creators, turning gamers into influencers and entertainers.
+
+Recent innovations in **Virtual Reality** and **Clowd Computing** have further expanded accesibility of gaming. Today, the gaming industry exceeds **180 billion of Euro annually**, surpassing film and music combined. It influences popular culture, from fashion to cinema, while offering new forms of social interaction and creativity.
+
+The evolution of gaming illustrates how computing has transcended functionality to become a medium of shared experience—connecting people, cultures, and ideas across digital spaces.
+
+## References 
+[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
+[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
+[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
+[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
 
 # First Viewpoint
 
