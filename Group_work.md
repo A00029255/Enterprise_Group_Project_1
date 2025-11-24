@@ -1,6 +1,6 @@
 ## Victor Bejan - A00022136 - Historical development
 ## Ogodo Daniel - A00023169 - 
-## Ndlovu Andile Brandon - X00227203 - 
+## Ndlovu Andile Brandon - X00227203 - Social
 ## Uzoma Chinonso - D24127655 - 
 ## Singh Mayank - A00029255 - 
 
@@ -64,3 +64,4 @@ The evolution of gaming illustrates how computing has transcended functionality 
 
 
 # Conclusoin 
+
