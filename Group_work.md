@@ -2,7 +2,7 @@
 ## Daniel Ogodo - A00023169 - 
 ## Ndlovu Andile Brandon - X00227203 - Societal Viewpoint Analysis
 ## Uzoma Chinonso - D24127655 - 
-## Singh Mayank - A00029255 - 
+## Singh Mayank - A00029255 - Business Viewpoint Analysis
 
 
 # Introduction 
@@ -48,16 +48,13 @@ Recent innovations in **Virtual Reality** and **Clowd Computing** have further e
 
 The evolution of gaming illustrates how computing has transcended functionality to become a medium of shared experience—connecting people, cultures, and ideas across digital spaces.
 
-## References 
-1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
-2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
-3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
-4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
 
-# First Viewpoint
 
 
 # Business Viewpoint Analysis
+
+
+# Societal Viewpoint Analysis
 
 
 # Ethical Reflection & Improvements
@@ -66,3 +63,9 @@ The evolution of gaming illustrates how computing has transcended functionality 
 # Conclusoin 
 
 
+
+## References 
+1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
+2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
+3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
+4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
