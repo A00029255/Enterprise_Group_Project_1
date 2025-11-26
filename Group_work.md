@@ -1,5 +1,5 @@
 ## Victor Bejan - A00022136 - Historical development
-## Daniel Ogodo - A00023169 - Business Viewpoint Analysis
+## Daniel Ogodo - A00023169 - 
 ## Ndlovu Andile Brandon - X00227203 - Societal Viewpoint Analysis
 ## Uzoma Chinonso - D24127655 - 
 ## Singh Mayank - A00029255 - 
