@@ -245,8 +245,32 @@ Global comparative policy research: “how do different regulatory regimes shape
 
 Through thorough research within peer reviewed meta-analytic work, major professional statements, industry history, regulatory reviews, and reputable market and news sources to outline how societal viewpoints evolved and why. Citations are provided for verification of key claims. 
 
-### 7. References 
 
+
+# Ethical Reflection & Improvements
+
+
+# Conclusion 
+Looking back at the evolution of gaming through the years, it is clear that its growth is not just due to technological advancements but also a result of human imagination and the desire for connection. From the very first arcade machines to today’s expansive virtual worlds, gaming has always adapted to new technologies while pushing the limits of what digital experiences can achieve. The industry’s move from simple mechanics games to immersive high quality narratives, realistic content and shared online spaces shows its ability to change and adapt in response to evolving societal needs and interests. 
+
+Gaming now stands as one of the most influential forms of entertainment,shaping trends, communities and global culture. With people competing in professional Esports and making a living from it. It also brings people together across different countries, offers new ways to experience stories and encourages creativity through game design, play, and collaboration. As technology evolves such as VR,AR and AI, gaming will surely continue to break new grounds, providing even more immersive and meaningful experiences. The evolution of gaming is an ongoing journey and its impact on culture, technology and human interaction will only continue to grow in the years to come. 
+
+
+# References 
+### Historical development
+1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
+2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
+3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
+4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
+### Business Viewpoint Analysis
+1. [Empirical investigation of key business factors for digital game performance (2015)](https://arxiv.org/abs/1511.04422)
+2. [Gaming market size, share & trends analysis report](https://www.grandviewresearch.com/industry-analysis/gaming-industry)
+3. [Pay to (Not) Play: Monetizing Impatience in Mobile Games](https://arxiv.org/abs/2312.10205)
+4. [50 Years of Gaming History, by Revenue Stream (1970–2020)](https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/)
+5. [Feeding the Iron Pimps: The Golden Age of Arcades in Black America](https://gamestudies.org/2503/articles/woodhouse)
+
+### Societal Viewpoint Analysis
 Anderson, C. A. & Bushman, B. J. (2001). Effects of Violent Video Games on Aggressive Behavior, Aggressive Cognition, Aggressive Affect, Physiological Arousal, and Prosocial Behavior: A Meta-Analytic Review of the Scientific Literature. Psychological Science, 12(5), 353–359. https://bit.ly/49FoCIZ  
  
 
@@ -274,38 +298,4 @@ Research about gambling-like monetization in games — e.g. Rocking the Boat: Lo
 Critical legal/consumer-protection scholarly analysis: Virtual coercion and the vulnerable consumer: ‘loot boxes’ as aggressive commercial practices (2022) https://bit.ly/4pBL0HY   
  
 
-Empirical study on loot-box compliance and consumer risk: non-compliance in UK self-regulation (2025) — “Non-compliance with and non-enforcement of UK loot box industry self-regulation on the Apple App Store” https://bit.ly/4ipCObn  
-
-# Ethical Reflection & Improvements
-
-
-# Conclusion 
-Looking back at the evolution of gaming through the years, it is clear that its growth is not just due to technological advancements but also a result of human imagination and the desire for connection. From the very first arcade machines to today’s expansive virtual worlds, gaming has always adapted to new technologies while pushing the limits of what digital experiences can achieve. The industry’s move from simple mechanics games to immersive high quality narratives, realistic content and shared online spaces shows its ability to change and adapt in response to evolving societal needs and interests. 
-
-Gaming now stands as one of the most influential forms of entertainment,shaping trends, communities and global culture. With people competing in professional Esports and making a living from it. It also brings people together across different countries, offers new ways to experience stories and encourages creativity through game design, play, and collaboration. As technology evolves such as VR,AR and AI, gaming will surely continue to break new grounds, providing even more immersive and meaningful experiences. The evolution of gaming is an ongoing journey and its impact on culture, technology and human interaction will only continue to grow in the years to come. 
-
-
-# References 
-### Historical development
-1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
-2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
-3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
-4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
-
-### Business Viewpoint Analysis
-1. [Empirical investigation of key business factors for digital game performance (2015)](https://arxiv.org/abs/1511.04422)
-2. [Gaming market size, share & trends analysis report](https://www.grandviewresearch.com/industry-analysis/gaming-industry)
-3. [Pay to (Not) Play: Monetizing Impatience in Mobile Games](https://arxiv.org/abs/2312.10205)
-4. [50 Years of Gaming History, by Revenue Stream (1970–2020)](https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/)
-5. [Feeding the Iron Pimps: The Golden Age of Arcades in Black America](https://gamestudies.org/2503/articles/woodhouse)
-
-
-
-
-
-
-
-
-
-
-
+Empirical study on loot-box compliance and consumer risk: non-compliance in UK self-regulation (2025) — “Non-compliance with and non-enforcement of UK loot box industry self-regulation on the Apple App Store” https://bit.ly/4ipCObn
