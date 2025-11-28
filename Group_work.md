@@ -1,8 +1,8 @@
-## Victor Bejan - A00022136 - Historical development
 ## Daniel Ogodo - A00023169 - Introduction & Conclusion
+## Victor Bejan - A00022136 - Historical development
+## Singh Mayank - A00029255 - Business Viewpoint Analysis
 ## Ndlovu Andile Brandon - X00227203 - Societal Viewpoint Analysis
 ## Uzoma Chinonso - D24127655 - Ethical Reflection & Improvements
-## Singh Mayank - A00029255 - Business Viewpoint Analysis
 
 
 # Introduction 
@@ -87,6 +87,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
