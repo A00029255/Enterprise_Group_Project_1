@@ -124,6 +124,11 @@ Data driven design: Developers used user data and interactions to optimise their
 
 Companies such as Supercell known for Clash of Clans and King known for Candy Crush were able to make billions from their simple games, which showed that having accessibility and monetisation strategies can perform better than games with a much more complex design. 
 
+
+### Conclusion of Business Viewpoint 
+
+Analysing the evolution of gaming through a business viewpoint showed that the industry is constantly being redefined caused by the renovations, competitive strategies, monetisation, and technological advancements. Each time there is a major shift such as arcades, consoles, online gaming, and mobile games it shows how a business adapts to the new market, new technologies, and the increasing expectations from a consumer. Understanding these trends showcases the essential insights on how gaming grew into one of the most commercially successful digital industries. 
+
 # Societal Viewpoint Analysis
 
 
@@ -142,6 +147,8 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
+### Business Viewpoint Analysis
 
 
 
