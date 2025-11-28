@@ -58,6 +58,11 @@ The evolution of gaming illustrates how computing has transcended functionality 
 
 
 # Business Viewpoint Analysis
+##First Viewpoint Analysis: Business Perspective 
+
+ 
+
+###From a business perspective, the evolution of gaming can seem like a series of strategic responses to the way conditions would change such as consumer behaviour, competition, and the gaming markets conditions. This viewpoint shows how corporate companies would use these to their benefit by monetising consumer behaviour, creating their own unique platforms and making their own pricing strategies with deals, sales and subscriptions for a more long time profit for competition, but corporates are also influenced by things not related to the market these would be technological advancements, and a consumers expectation of service. Through this perspective it shows that gaming isn't just another hobby or some form of entertainment but that there is a whole market behind it shaped by these points. 
 
 
 # Societal Viewpoint Analysis
@@ -77,3 +82,4 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
