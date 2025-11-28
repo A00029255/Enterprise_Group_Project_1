@@ -293,7 +293,12 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
 
 ### Business Viewpoint Analysis
-1. [Aleem, S., Capretz, L.F. & Ahmed, F. (2015) Empirical investigation of key business factors for digital game performance](https://arxiv.org/abs/1511.04422)
+1. [Empirical investigation of key business factors for digital game performance (2015)](https://arxiv.org/abs/1511.04422)
+2. [Gaming market size, share & trends analysis report](https://www.grandviewresearch.com/industry-analysis/gaming-industry)
+3. [Pay to (Not) Play: Monetizing Impatience in Mobile Games](https://arxiv.org/abs/2312.10205)
+4. [50 Years of Gaming History, by Revenue Stream (1970–2020)](https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/)
+5. [Feeding the Iron Pimps: The Golden Age of Arcades in Black America](https://gamestudies.org/2503/articles/woodhouse)
+
 
 
 
