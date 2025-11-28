@@ -102,6 +102,28 @@ This pronounced the shift from a product based to service based business models.
 Massively multiplayer online games (MMOs) such as World of Warcraft increased this approach further by making their own subscription models in game, showing how profitable this can be, by keeping its players engaged and earning revenue throughout a game's lifespan. This created an incentive for developers to continuously provide content updates, which then became a common practice in the industry. 
 
 
+### Mobile Gaming as a Global Market Transformation 
+
+When smartphones were introduced, specifically iPhone in 2007 and its App Store in 2008, it caused one of the greatest commercial shifts in gaming history. Mobile gaming changed the industry from a select few users to a mainstream global market worth hundreds of billions. 
+
+ 
+
+The reason for why mobile gaming succeeded is because it was in range with some of the key economic factors such as: 
+
+Low barriers to entry: The App Store made global distribution easy and accessible. 
+
+Near zero production and distribution costs for many developers. 
+
+Free to play (F2P) revenue models drastically increased the potential player base for their products. 
+
+Microtransactions and in app purchases ensured that there was a steady stream of income. 
+
+Data driven design: Developers used user data and interactions to optimise their engagement and monetisation specifically ads. 
+
+ 
+
+Companies such as Supercell known for Clash of Clans and King known for Candy Crush were able to make billions from their simple games, which showed that having accessibility and monetisation strategies can perform better than games with a much more complex design. 
+
 # Societal Viewpoint Analysis
 
 
@@ -120,6 +142,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
