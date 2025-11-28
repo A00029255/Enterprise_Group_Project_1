@@ -149,6 +149,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
 
 ### Business Viewpoint Analysis
+1. [Aleem, S., Capretz, L.F. & Ahmed, F. (2015) Empirical investigation of key business factors for digital game performance](https://arxiv.org/abs/1511.04422)
 
 
 
