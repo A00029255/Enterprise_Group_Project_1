@@ -12,7 +12,7 @@ The early years of gaming focused on experimentation. Developers worked with dif
 
 In recent years, gaming has expanded beyond entertainment into different areas like creativity, learning and community building. Games now act like virtual meeting spaces, collaborative environments and tools for education and skill development. The rise of user generated/created content shows how players have become active contributors, building the world they play in, instead of just consuming pre made experiences. Also, the cultural impact of gaming can be seen in fashion, music, storytelling and online trends, once again proving games are now an important part of our normal life. 
 
-This case study explores The Historical Developments, The Business and Social Viewpoints and The Ethical Reflection and Improvements of The Evolution of Gaming. As well as understanding the cultural impacts of gaming in our society today 
+This case study explores The Historical Developments, The Business and Social Viewpoints and The Ethical Reflection and Improvements of The Evolution of Gaming. As well as understanding the cultural impacts of gaming in our society today. 
 
 # Historical development
 
@@ -281,9 +281,9 @@ Ethical reflection and improvement in computer gaming are critical as the medium
 
 
 # Conclusion 
-Looking back at the evolution of gaming through the years, it is clear that its growth is not just due to technological advancements but also a result of human imagination and the desire for connection. From the very first arcade machines to today’s expansive virtual worlds, gaming has always adapted to new technologies while pushing the limits of what digital experiences can achieve. The industry’s move from simple mechanics games to immersive high quality narratives, realistic content and shared online spaces shows its ability to change and adapt in response to evolving societal needs and interests. 
+Taking a look back at the evolution of gaming through the years, it is clear that the growth of video games is not just because of technological advancements but also because of human imagination and our need for connectivity. From the earliest arcade machines to today’s highly realistic video game's virtual worlds, gaming has continued to always adapt to new technologies while continuing to push the limits to what digital experiences can achieve.  The industry’s move from games with simple mechanics to high quality, realistic content and shared online experiences shows its ability to change and continue to adapt in response to the evolving societal needs and interests. 
 
-Gaming now stands as one of the most influential forms of entertainment,shaping trends, communities and global culture. With people competing in professional Esports and making a living from it. It also brings people together across different countries, offers new ways to experience stories and encourages creativity through game design, play, and collaboration. As technology evolves such as VR,AR and AI, gaming will surely continue to break new grounds, providing even more immersive and meaningful experiences. The evolution of gaming is an ongoing journey and its impact on culture, technology and human interaction will only continue to grow in the years to come. 
+Today, gaming now stands as one of the most influential forms of entertainment, creating trends, communities and global culture. Gaming has also evolved to a form of employment, with many people competing in professional Esports and making a living from it. Gaming as also brought people together across different countries and continents, offering new ways to experience stories and encouraging creativity among gamers through game designs, gameplay and collaboration. As technology continues to evolve with the likes of VR, AR and AI, gaming will only continue to break new grounds, providing even more immersive and meaningful experiences. The Evolution of Gaming is an ongoing journey and its impact on culture, technolgy and human interaction will only continue to grow in the years to come. 
 
 
 # References 
