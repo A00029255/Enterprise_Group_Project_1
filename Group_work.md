@@ -89,6 +89,19 @@ Network effects: The more consumers using a platform increased its popularity wh
 These strategies showed clear cause and effect, competition drove companies towards constantly making technological upgrades (for example moving to 3D graphics and adding colour). These innovations were not only driven by their creativity but a need to justify their new product releases and protect their market share. 
 
 
+### Online Connections and the Development of Monetisation Methods 
+
+With broadbands rising in the early 2000s, gaming had changed once again. Online features began being introduced into platforms and introduced a recurring revenue stream, transforming games from a once off purchase into a long term service. When Microsoft’s made its Xbox Live feature in 2002 it shifted the focus of the business perspective, establishing paid subscriptions, downloadable content (DLC), digital distribution, and account based ecosystems. 
+
+ 
+
+This pronounced the shift from a product based to service based business models. Now instead of solely relying on the sales of physical games, companies were now able to generate revenue across a game’s lifecycle. 
+
+ 
+
+Massively multiplayer online games (MMOs) such as World of Warcraft increased this approach further by making their own subscription models in game, showing how profitable this can be, by keeping its players engaged and earning revenue throughout a game's lifespan. This created an incentive for developers to continuously provide content updates, which then became a common practice in the industry. 
+
+
 # Societal Viewpoint Analysis
 
 
@@ -107,6 +120,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
