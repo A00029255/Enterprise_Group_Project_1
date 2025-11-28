@@ -330,3 +330,11 @@ Critical legal/consumer-protection scholarly analysis: Virtual coercion and the 
 
 Empirical study on loot-box compliance and consumer risk: non-compliance in UK self-regulation (2025) — “Non-compliance with and non-enforcement of UK loot box industry self-regulation on the Apple App Store” https://bit.ly/4ipCObn
 
+### Ethical Reflection & Improvements
+Ferguson, C. J. (2015). Do angry birds make for angry children? A meta-analysis of video game influences on aggression and prosocial behaviour.
+ 
+King, D., & Delfabbro, P. (2019). Video game monetization and ethical responsibility. International Journal of Mental Health and Addiction, 17(1), 166–179.
+Kwak, H., Blackburn, J., & Han, S. (2015). Exploring toxic behaviour in online games. Proceedings of the ACM CHI Conference, 3739–3748.
+Nieborg, D. B., & Poell, T. (2018). The platformization of cultural production. New Media & Society, 20(11), 4275–4292.
+Shaw, A. (2014). Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture. University of Minnesota Press.
+
