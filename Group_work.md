@@ -62,7 +62,7 @@ The evolution of gaming illustrates how computing has transcended functionality 
 From a business perspective, the evolution of gaming can seem like a series of strategic responses to the way conditions would change such as consumer behaviour, competition, and the gaming markets conditions. This viewpoint shows how corporate companies would use these to their benefit by monetising consumer behaviour, creating their own unique platforms and making their own pricing strategies with deals, sales and subscriptions for a more long time profit for competition, but corporates are also influenced by things not related to the market these would be technological advancements, and a consumers expectation of service. Through this perspective it shows that gaming isn't just another hobby or some form of entertainment but that there is a whole market behind it shaped by these points.
 
 
-## Early Market Disruption and Commercial Foundations 
+### Early Market Disruption and Commercial Foundations 
 
 The earliest phase of business for gaming's evolution was arcades in the 1970s and 1980s. The arcade machines introduced gaming as a completely new entertainment category, it was originally designed to target niche early users. The coin based operating system created a high stream of revenue with its low cost, repeat and then purchase strategy, which correlates to today's micro transactions. Corporates quickly relaslied the true value behind these short addictive gameplay loops as they directly impacted their revenue, the effect of this caused companies to redefine their games and its gameplay, it also changed the placements of arcades to trigger consumers impulses a common strategy used today to cause consumers to impulse buy. The rapid growth of companies like Atari and Namco showcased the economic potential of this new market, changing the very foundations of gaming from an experment into a commercially viable industry. 
 
@@ -87,6 +87,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
