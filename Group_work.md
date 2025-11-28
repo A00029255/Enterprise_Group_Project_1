@@ -131,6 +131,150 @@ Analysing the evolution of gaming through a business viewpoint showed that the i
 
 # Societal Viewpoint Analysis
 
+Short summary: 
+From being dismissed as children's toys, video games have shifted to becoming major cultural, economic, and social mediums. Moral panic, regulation and ratings, recognition of games as social spaces and careers, debates over monetization and consumer protection, and persistent fights over representation and online harassment are tracked recurring themes of concern based on addiction and harm. 
+
+### 1. Timeline & the dominant societal viewpoints 
+
+1970s–1980s — “Arcades, kids’ play, and early moral panic.” 
+Within this era, early public discourse framed games as juvenile entertainment; arcades were placed at the center of worries about truancy, delinquency, and moral decline. Scholars and cultural critics documented these anxieties as arcades moved into public life. 
+
+1990s — “Violence, congressional hearings, and self-regulation.” 
+The Entertainment Software Rating Board (ESRB) was created in 1994 due to high profile controversies (e.g. Mortal Kombat, Night Trap, Doom). This produced congressional hearings that led the U.S. industry to the creation of the ESRB. This era cemented the view that industry labeling could substitute for stricter government regulation 
+
+2000s — “Online sociality and new harms (toxicity, harassment).” 
+ The social platform of gaming was reframed due to the shift of online play (MMOs, multiplayer shooters). This created positive viewpoints such as friendships, and communities though it also caused public concern about toxicity, harassment, and cyberbullying, problems that required platform and community moderation responses. 
+
+2010s — “Games as culture, careers, and a backlash.” 
+Storytelling, art and careers, these are some of the accomplishments gaming gained recognition for. Simultaneously, industry culture faced intense scrutiny for sexism and harassment (Gamergate in 2014), which focused wider attraction on representation and workplace culture in interactive media. 
+
+ 
+
+ 
+
+Late 2010s–2020s — “Mental-health framing, monetization scrutiny, and mainstreaming.” 
+“Public health authorities classified problematic play (WHO’s gaming disorder in ICD-11), and regulators/ consumers-rights bodies investigated monetization practixes like loot boxes for gambling-like mechanics”. The sector simultaneously matured into a global industry with mainstream cultural status and major events, shifting the viewpoint of the public towards seeing games as normal adult entertainment, commercial media, and legitimate competition. 
+
+### 2. Core societal viewpoints & supporting evidence 
+
+Moral panic and content harm (violence/behavior): 
+
+Policy debates and research have repeatedly questioned whether violent games cause real world aggression. Meta analyses and policy statements reported consistent correlations between violent gameplay and short-term increase in aggression, though the interpretation and policy implications remained contested. 
+
+ 
+
+Regulation vs. industry self-governance: 
+
+“The ESRB is a landmark case of industry self-regulation adopted after public and congressional pressure, illustrating a societal preference for private governance where possible”. Within other countries, there is a mix of laws and ratings. 
+ 
+
+Addiction / public health framing: 
+
+The conclusion of “gaming disorder” by the WHO (2018) in ICD-11 made problematic gaming an internationally recognized clinical concern, reframing public conversations toward health systems and treatments. This remains controversial among researchers and stakeholders. 
+
+Games as social spaces — community benefits and harms: 
+
+Teamwork, friendships and online play support social capital, but also enables harassment, doxxing, and coordinated attacks. Society simultaneously views games as sites of sociability and that require governance to protect vulnerable participants. 
+ 
+
+Economic power, professionalization, and cultural legitimacy: 
+
+Markets report games generate billions in revenue, marking it as a major global industry, with esports, steaming, and game development as careers that positively impacted the public's perception of gaming from hobby to legitimate profession. This economic weight has also shifted policy and cultural attitudes. 
+ 
+ 
+
+Consumer protection and monetization ethics: 
+
+Scrutiny in some jurisdictions was prompted by the rise of microtransactions and randomized monetization, reframing gaming as a consumer protection issue, not just content. 
+ 
+
+Representation, inclusion, and workplace culture: 
+
+Gender, race, and accessibility in games had intensified debates in the 2010s. Incidents of harassment and systemic exclusion led to calls for industry reform, ethical hiring, and more diverse narratives. Gamergate marked this turning point in public awareness of these problems. 
+ 
+
+Educational and therapeutic uses: 
+
+Scholarship and practice increasingly highlighted game-based learning, rehabilitation, and therapy, putting games in a position as tools for cognitive training, empathy building, and clinical interventions. 
+
+### 3. Five load-bearing citations 
+
+Anderson et al., Meta-analytic review on violent video games and aggression (2001) — foundational scientific claim linking violent gameplay and aggression. 
+ 
+
+American Psychological Association (APA) policy/press release (2015) — major professional body summarizing evidence and policy stance. 
+ 
+
+ESRB / industry history page — documents the 1994 creation of industry self-regulation in response to political pressure. 
+ 
+
+WHO — Gaming disorder description in ICD-11 (2018) — demonstrates clinical recognition and public health framing. 
+ 
+
+EU / parliamentary and national inquiries on loot boxes (Europarl study; Belgian rulings) — support claims about consumer-protection consequences of modern monetization.  
+
+ 
+
+### 4. Implications for researchers, policymakers, and industry 
+
+Researchers: need a longitude of pre-registered studies that separate short term effects from long-term real-world harms. More cross-cultural work is required due to regulations and cultural receptions that vary by country. 
+ 
+
+Policymakers: should focus on the balance of child protection, consumer rights, platform responsibility, and support for beneficial uses. Cases that include the ESRB demonstrate that industry self-governance can ork but also has its limits. 
+ 
+
+Industry: face reputational and regulatory pressure around monetization, harassment, and diversity. Transparent design, stronger moderation tools, and ethical monetization practices reduce social friction and legal risk. 
+
+ 
+
+### 5. Gaps and recommended next steps for scholarship (concise) 
+
+Causal clarity: increase of high-quality longitudinal designs and natural experiments to clarify long-term causal effects of violent or excessive play. 
+
+Monetization impacts on minors: studies on how loot boxes and microtransactions affect children's spending and wellbeing. 
+ 
+
+Platform governance efficacy: “evaluations of moderation tools, reporting systems, and community interventions to reduce harassment.” 
+ 
+
+Global comparative policy research: “how do different regulatory regimes shape developer behavior and player outcomes?” 
+
+ 
+
+### 6. How I compiled evidence 
+
+Through thorough research within peer reviewed meta-analytic work, major professional statements, industry history, regulatory reviews, and reputable market and news sources to outline how societal viewpoints evolved and why. Citations are provided for verification of key claims. 
+
+### 7. References 
+
+Anderson, C. A. & Bushman, B. J. (2001). Effects of Violent Video Games on Aggressive Behavior, Aggressive Cognition, Aggressive Affect, Physiological Arousal, and Prosocial Behavior: A Meta-Analytic Review of the Scientific Literature. Psychological Science, 12(5), 353–359. https://bit.ly/49FoCIZ  
+ 
+
+Sherry, J. L. (2001). The effects of violent video games on aggression. Human Communication Research, 27(3), 409–431. https://bit.ly/4p5DNQk  
+ 
+
+Ferguson, C. J. et al. — critical reviews & debates of media-violence research (e.g. “Evidence for publication bias in video game violence effects literature”, 2007) https://bit.ly/3Xo9qZn   
+ 
+
+Review: Violent video games: content, attitudes, and norms (2023). Ethics and Information Technology. https://bit.ly/3M7ONhx   
+ 
+
+Historical record of the founding of the Entertainment Software Rating Board (ESRB) following congressional hearings over violent games (e.g. Mortal Kombat, Night Trap) and earlier rating efforts (e.g. Videogame Rating Council). https://bit.ly/3MaHkhI  
+ 
+
+Public-health classification: World Health Organization (WHO) — inclusion of Gaming disorder in the 11th revision of the International Classification of Diseases (ICD-11), 2018. https://bit.ly/4pyTfo3   
+ 
+
+Systematic review on prevalence / definitions of gaming disorder — "Exploring the prevalence of gaming disorder and Internet gaming disorder: a rapid scoping review" (2020) https://bit.ly/4rmGsqm   
+ 
+
+Research about gambling-like monetization in games — e.g. Rocking the Boat: Loot Boxes in Online Digital Games, the Regulatory Challenge, and the EU’s Unfair Commercial Practices Directive (2022) https://bit.ly/4p61SGZ   
+ 
+
+Critical legal/consumer-protection scholarly analysis: Virtual coercion and the vulnerable consumer: ‘loot boxes’ as aggressive commercial practices (2022) https://bit.ly/4pBL0HY   
+ 
+
+Empirical study on loot-box compliance and consumer risk: non-compliance in UK self-regulation (2025) — “Non-compliance with and non-enforcement of UK loot box industry self-regulation on the Apple App Store” https://bit.ly/4ipCObn  
 
 # Ethical Reflection & Improvements
 
@@ -150,6 +294,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 
 ### Business Viewpoint Analysis
 1. [Aleem, S., Capretz, L.F. & Ahmed, F. (2015) Empirical investigation of key business factors for digital game performance](https://arxiv.org/abs/1511.04422)
+
 
 
 
