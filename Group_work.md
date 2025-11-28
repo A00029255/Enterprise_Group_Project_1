@@ -82,11 +82,13 @@ Looking back at the evolution of gaming through the years, it is clear that its 
 Gaming now stands as one of the most influential forms of entertainment,shaping trends, communities and global culture. With people competing in professional Esports and making a living from it. It also brings people together across different countries, offers new ways to experience stories and encourages creativity through game design, play, and collaboration. As technology evolves such as VR,AR and AI, gaming will surely continue to break new grounds, providing even more immersive and meaningful experiences. The evolution of gaming is an ongoing journey and its impact on culture, technology and human interaction will only continue to grow in the years to come. 
 
 
-## References 
+# References 
+### Historical development
 1.[Computer History Museum, Video Game History Timeline](https://computerhistory.org) 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
