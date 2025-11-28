@@ -70,6 +70,25 @@ The earliest phase of business for gaming's evolution was arcades in the 1970s a
 This time period also set an important pattern that has continued to this day, that new technology created new opportunities and not the other way around. As processors became faster and hardware started to become cheaper, it allowed companies to produce games at a much larger scale and reach more people. This is what started making gaming a global commercial industry. 
 
 
+### Platform Strategy and the Rise of Console Ecosystems 
+
+The shift from arcades to home consoles in the mid 1980s resulted in a much more deeper strategic change. Nintendo's introduction of the Nintendo Entertainment System (NES), showed that the profitability for long term doesnt depend on the hardware but rather on a more controlling platform ecosystem. By purchasing and licensing their games and third party developers while also forcing strict quality control, Nintendo earned itself a stable revenue stream and gained brand trust. This redefined and foreshadowed the platform structure of the gaming industry we see today. 
+
+ 
+
+The “console wars” between Nintendo, Sega, Sony and later Microsoft can be explained through the following platform economics: 
+
+Lock in strategies: Making exclusive games such a Mario, Halo, and Gran Turismo gave each console their own unique value, making it harder for a consumer to switch to a competitor. 
+
+Loss leader pricing: Companies sold their consoles for little or no profit, but instead they made their money from selling games and licensing fees. 
+
+Network effects: The more consumers using a platform increased its popularity which in turn increased the number of developers wanting to work with that platforms company, which in turn increased even more consumers. 
+
+ 
+
+These strategies showed clear cause and effect, competition drove companies towards constantly making technological upgrades (for example moving to 3D graphics and adding colour). These innovations were not only driven by their creativity but a need to justify their new product releases and protect their market share. 
+
+
 # Societal Viewpoint Analysis
 
 
@@ -88,6 +107,7 @@ Gaming now stands as one of the most influential forms of entertainment,shaping 
 2.[MIT Game Lab Spacewar! – The First Digital Video Game](https://gamelab.mit.edu)
 3.[Videogames in Computer Space: The Complex History of Pong](https://ieeexplore.ieee.org/document/5223982)
 4.[Wolf, M. J. P. (2014) A Brief History of Video Games](https://scispace.com/pdf/a-brief-history-of-video-games-zivuueu7md.pdf)
+
 
 
 
